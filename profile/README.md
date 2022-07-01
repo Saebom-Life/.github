@@ -4,4 +4,4 @@
 ## 외부 링크
 [🔗 사이트 바로가기](https://saebom.life)
 
-~~[🔗 공식 Discord](https://discord.gg)~~
+[🔗 공식 Discord](https://discord.gg/bjJkgYfa7S)
